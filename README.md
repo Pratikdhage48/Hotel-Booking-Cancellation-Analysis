@@ -60,3 +60,7 @@ The objective of this project is to analyze historical hotel booking data to ide
 6. Recommendations
 
 ---
+
+# 📊 Visuals Example
+
+ ![Dashboard](https://raw.githubusercontent.com/Pratikdhage48/Hotel-Booking-Cancellation-Analysis/main/Executive_Overview.jpg)
